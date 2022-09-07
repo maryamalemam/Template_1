@@ -29,7 +29,7 @@ body   {width:100%;
 .a-team{margin-left: 190px;
   margin-top: 10px;
 }
-.parent2{width:1100px;
+.parent2{width:2500px;
           height:1500px;
           position: relative;
           background-image: url('../img1/i.jpg');
@@ -121,7 +121,7 @@ color:#98856D;
 .d5{
   text-align:center;
   padding-top: 100px;
-  width: 1100px;
+  width: 2500px;
   height: 1000px;
   overflow: auto;
 }
@@ -190,7 +190,7 @@ color:#98856D;
   width: 90%;
   margin: auto;}
 .d6{
-  width: 1100px;       height: 600px;
+  width: 2500px;       height: 600px;
   background:#6F4E37;
   text-align:center;
   padding-top: 70px;
@@ -255,7 +255,7 @@ margin-left: 65px;
 }
 .d13 p{width: 350px
 }
-.d13{width:1100px;
+.d13{width:2500px;
 height: 600px;
 color: #6F4E37;
 overflow: auto;
@@ -279,7 +279,7 @@ overflow: auto;
   font-size: 17px;
 }
 .d23,.d22,.d21,.d20,.d19,.d18,.d17,.d16,.d15,.d14,.d7,.d8,.d9,.d10,.d11,.d12,.d6,.d5,.d4,.d3{float: left;}
-.d14 {width: 1100px;
+.d14 {width: 2500px;
 height: 800px;}
 .d14{height: 380px;
 overflow: auto;
@@ -334,7 +334,7 @@ transition: 1s;
   margin-top: 15px;}
  .ppp,.ul2{ color: #4A2C2A;
 }
-.d19{width: 1100px; height: 650px;
+.d19{width: 2500px; height: 650px;
   text-align: center;}
 .d19 hr {width: 70px; height: 4px;background:#6F4E37; 
 border: 0;
@@ -360,7 +360,7 @@ border: 2px solid beige;
   font-size: 15px;}
 .parent5{background-image: url('../img1/html555.jpg');
 overflow: auto;
-height: 380px;  width: 1100px;
+height: 380px;  width: 2500px;
 background-repeat: no-repeat;
 background-position: cover;
 background-attachment: fixed;
@@ -385,7 +385,7 @@ overflow: auto;}
   width: 250px;
   height: 100px;}
 .d20 p{margin-top: 5px;}
-.d21{width: 1100px;  height: 700px;
+.d21{width: 2500px;  height: 700px;
   overflow: auto;
   text-align: center;}
 .d21 h1{margin-top: 70px;
@@ -443,7 +443,7 @@ opacity: 0.4;    transition: 1s;
 }
 .container2{width: 98%;  margin: auto;
 }
-.d22{width: 1100px;  height: 830px;
+.d22{width: 2500px;  height: 830px;
   background-color:#6F4E37;
 color: #98856D;
 text-align: center;}
@@ -497,7 +497,7 @@ font-size: 15px;
   margin-top: 15px;
 }
 
-.d23{width: 1100px;   height: 350px;
+.d23{width: 2500px;   height: 350px;
 background:#321907;
   text-align: center;
 }
